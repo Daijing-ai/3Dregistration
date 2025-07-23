@@ -1,3 +1,10 @@
+install clip
+git clone https://github.com/openai/CLIP.git
+
+install depthanything
+git clone https://github.com/LiheYoung/Depth-Anything.git
+
+
 1. extract_keyframes(extract_keyframes.py)
 --input: video file
 --output: keyframes
