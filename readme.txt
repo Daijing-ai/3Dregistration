@@ -9,7 +9,7 @@ git clone https://github.com/LiheYoung/Depth-Anything.git
 --input: video file
 --output: keyframes
 
-2. run_depthanything(ndt_ply_v3.py)
+2. run_depthanything(run.py)
 --input: keyframes
 --output: depth maps, cloudpoints, merged cloudpoint
 
